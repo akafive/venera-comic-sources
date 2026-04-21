@@ -1,0 +1,8 @@
+[
+  {
+    "name": "nhentai",
+    "url": "https://cdn.jsdelivr.net/gh/akafive/venera-comic-sources@main/nhentai.js",
+    "version": "1.0.0",
+    "description": "Custom nhentai source for Venera"
+  }
+]
